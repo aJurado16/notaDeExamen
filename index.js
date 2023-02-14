@@ -43,7 +43,7 @@ const definirMensaje = (pr) => {
         break;
         case 9: resultado = "Excelente";
         break;
-        case 10: resultado = "Insuperable hdtpm";
+        case 10: resultado = "Insuperable";
         break;
         default: resultado = null;
     }
